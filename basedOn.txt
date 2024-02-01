@@ -1,0 +1,3 @@
+Progresscolor 1 = Macintosh 512K
+Progresscolor 2 = Macintosh Plus
+Progresscolor 3 = Macintosh Classic or Macintosh SE/30
